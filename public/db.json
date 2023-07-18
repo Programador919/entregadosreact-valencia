@@ -1,0 +1,122 @@
+[
+    {
+        "id": 1,
+        "img": "../imga/w1.jpg",
+        "title": "Whisky Chivas Regal",
+        "category": "Whisky",
+        "description": "Chivas Regal es una reconocida marca de whisky escocés que se ha ganado una reputación por su calidad y sofisticación.  ",
+        "description1": "Demasiado de algo es malo, pero demasiado buen whisky es raramente suficiente",
+        "price": 35,
+        "stock": 10
+    },
+    {
+        "id": 2,
+        "img": "../imga/w2.jpg",
+        "title": "Wisky Jack Daniel's",
+        "category": "Whisky",
+        "description": "Jack Daniel's es una icónica marca de whisky estadounidense, conocida por su distintivo sabor y estilo.  ",
+        "description1": "Nunca retrases besar a una chica bonita o abrir una botella de whisky",
+        "price": 30,
+        "stock": 9
+    },
+    {
+        "id": 3,
+        "img": "../imga/w3.jpg",
+        "title": "Wisky Jim Bean",
+        "category": "Whisky",
+        "description": "Jim Beam es una destacada marca de whisky bourbon originaria de Estados Unidos, reconocida por su rica historia.",
+        "description1": "Un buen trago de whisky caliente antes de acostarse, no es muy científico, pero ayuda",
+        "price": 40,
+        "stock": 13
+    },
+    {
+        "id": 4,
+        "img": "../imga/w4.jpg",
+        "title": "Tequila Don Julio",
+        "category": "Tequila",
+        "description": "Don Julio es una reconocida marca de tequila premium de México, que se destaca por su artesanía, calidad y sabor excepcionales. ",
+        "description1": "Si quieres hacer algunos recuerdos, agrega un poco de tequila",
+        "price": 40,
+        "stock": 35
+    },
+    {
+        "id": 5,
+        "img": "../imga/w5.jpg",
+        "title": "Tequila 1800",
+        "category": "Tequila",
+        "description": "La carta de tequilas de 1800 ofrece una variedad de expresiones, cada una con sus propias características y perfiles de sabor distintivos. ",
+        "description1": "Cuando la vida te da limones, obtén tequila y sal",
+        "price": 50,
+        "stock": 41
+    },
+    {
+        "id": 6,
+        "img": "../imga/w6.jpg",
+        "title": "Tequila Sierra",
+        "category": "Tequila",
+        "description": "La marca se enorgullece de su dedicación a la calidad y la tradición del tequila mexicano, opción para momentos especiales e inolvidables",
+        "description1": "Beber tequila tiene más que ver con el viaje que con el destino",
+        "price": 20,
+        "stock": 11
+    },
+    {
+        "id": 7,
+        "img": "../imga/w7.jpg",
+        "title": "Vodka Gorbatschow",
+        "category": "Vodka",
+        "description": "Gorbatschow Vodka es una conocida marca de vodka originaria de Alemania. Se caracteriza por su calidad y sabor suave y limpio",
+        "description1": "La relación entre un ruso y una botella de vodka es casi mística",
+        "price": 55,
+        "stock": 18
+    },
+    {
+        "id": 8,
+        "img": "../imga/w8.jpg",
+        "title": "Vodka Smirnoff",
+        "category": "Vodka",
+        "description": "Se destaca por su amplia variedad de expresiones y su versatilidad en cócteles, es una de las marcas de vodka más reconocidas y populares ",
+        "description1": "El vodka, como el, dinero convierte a una persona en un excéntrico",
+        "price": 25,
+        "stock": 15
+    },
+    {
+        "id": 9,
+        "img": "../imga/w9.jpg",
+        "title": "Vodka Absolute",
+        "category": "Vodka",
+        "description": " Absolut Vodka es una icónica marca de vodka originaria de Suecia, conocida por su calidad y su enfoque en ingredientes naturales.",
+        "description1": "El vodka no alivia el dolor de espalda. Pero pone la mente fuera de él",
+        "price": 30,
+        "stock": 12
+    },
+    {
+        "id": 10,
+        "img": "../imga/w10.jpg",
+        "title": "Vino Swartland",
+        "category": "Vino",
+        "description": " Los vinos de Swartland reflejan el terruño único de la región y se destacan por su rica expresión de frutas, equilibrio y complejidad.",
+        "description1": "El vino es la más saludable e higiénica de las bebidas",
+        "price": 65,
+        "stock": 9
+    },
+    {
+        "id": 11,
+        "img": "../imga/w11.jpg",
+        "title": "Vino Mathie & Claudine",
+        "category": "Vino",
+        "description": "Los vinos de Mathie & Claudine, tanto tintos como blancos, son apreciados por su elegancia y su capacidad para reflejar la diversidad.",
+        "description1": "Si bien la penicilina cura a los hombres, el vino les hace felices",
+        "price": 70,
+        "stock": 9
+    },
+    {
+        "id": 12,
+        "img": "../imga/w12.jpg",
+        "title": "Vino Rioja",
+        "category": "Vino",
+        "description": " producidos en la región vinícola de La Rioja, en el norte de España. Son reconocidos a nivel internacional por su calidad y carácter distintivo.",
+        "description1": "Donde no hay vino no hay amor",
+        "price": 15,
+        "stock": 9
+    }
+]

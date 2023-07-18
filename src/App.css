@@ -1,0 +1,128 @@
+.App {
+  color: rgb(30, 48, 80);
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  background-color: rgb(187, 186, 186);
+}
+
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
+}
+
+.NavBar {
+  display: flex;
+  justify-content: space-between;
+  padding: 0 1rem;
+  border-bottom: solid 1px rgb(167, 10, 10);
+}
+
+.NavBar-right {
+  display: flex;
+  align-items: center;
+}
+
+.NavBar-right>ul {
+  display: flex;
+  list-style: none;
+  padding: 0 1rem 0 0;
+}
+
+.NavBar-right>ul>.li {
+  padding: 0 0.5rem;
+  text-decoration: none;
+}
+
+.NavBar-right>ul>.li {
+  text-decoration: none;
+  color: rgb(30, 48, 80);
+  transition: 0.3s;
+}
+
+.NavBar-right>ul>li>a:hover {
+  font-weight: bold;
+  text-decoration: underline;
+}
+
+.NavBar-CartWidget {
+  display: flex;
+  font-size: 1.5rem;
+}
+
+.NavBar-CartWidget>div {
+  color: white;
+  background-color: rgb(25, 56, 107);
+  border-radius: 50%;
+}
+
+.NavBar-CartWidget>* {
+  padding: 0 0.5rem;
+}
+
+.ItemListContainer,
+.Categorias {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  min-height: 50vh;
+}
+
+.card{
+  max-width: 20rem;
+  border: solid 1px black;
+  margin: 1rem 1rem;
+  padding: 1rem;
+  background-color: white;
+}
+
+.card>img {
+  width: 100%;
+  aspect-ratio: 3/2;
+  object-fit: contain;
+}
+
+.card-price{
+  text-align: end;
+}
+
+.card-buttons{
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+}
+
+.card-cart{
+  display: flex;
+  justify-content: center;
+}
+
+.itemDetailContainer{
+  display: flex;
+  justify-content: center;
+}
+
+.itemDetail-card{
+  display: flex;
+  background-color: rgb(224, 218, 218);
+  max-width: 80rem;
+  min-height: 50vh;
+}
+
+.itemDetail-card>img {
+  width: 100%;
+  aspect-ratio: 3/2;
+  object-fit: contain;
+}
+
+footer {
+  background-color: blue;
+  text-align: center;
+  color: aliceblue;
+  
+}
